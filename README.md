@@ -14,12 +14,12 @@ It includes complete preprocessing, vectorization, model training, prediction, a
 
 📊 Project Features
 
-✔ Text cleaning (lowercase, stopwords removal, punctuation removal)
-✔ TF-IDF vectorization
-✔ SVM classification
-✔ Saved model using pickle
-✔ Real-time prediction script (test.ipynb)
-✔ Jupyter notebook with full code
+    ✔ Text cleaning (lowercase, stopwords removal, punctuation removal)
+    ✔ TF-IDF vectorization
+    ✔ SVM classification
+    ✔ Saved model using pickle
+    ✔ Real-time prediction script (test.ipynb)
+    ✔ Jupyter notebook with full code
 
 🧠 How It Works
 
@@ -28,3 +28,7 @@ It includes complete preprocessing, vectorization, model training, prediction, a
     Train SVM classifier
     Save TF-IDF model + SVM model
     Load models to make predictions
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
