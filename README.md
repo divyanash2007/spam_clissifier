@@ -29,6 +29,8 @@ It includes complete preprocessing, vectorization, model training, prediction, a
     Save TF-IDF model + SVM model
     Load models to make predictions
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+Clone the repo.
+    git clone https://github.com/divyanash2007/spam_clissifier.git
+
+Install dependencies:
+    pip install -r requirements.txt
